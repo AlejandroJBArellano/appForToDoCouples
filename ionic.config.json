@@ -1,0 +1,7 @@
+{
+  "name": "TO-DO for couples",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
